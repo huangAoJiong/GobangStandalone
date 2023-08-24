@@ -1,0 +1,26 @@
+﻿  GameModel.cpp
+E:\VC_PRO\五子棋1\五子棋1\GameModel.h(18,30): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VC_PRO\五子棋1\五子棋1\GameModel.h(19,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+E:\VC_PRO\五子棋1\五子棋1\GameModel.h(18,30): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VC_PRO\五子棋1\五子棋1\GameModel.h(19,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(23,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(38,57): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(38,45): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(39,57): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(39,45): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(50,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(51,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(82,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(86,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(90,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(100,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(101,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(103,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(104,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(110,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(121,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(132,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VC_PRO\五子棋1\五子棋1\main.cpp(143,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  五子棋1.vcxproj -> E:\VC_PRO\五子棋1\Debug\五子棋1.exe
